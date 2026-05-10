@@ -150,25 +150,6 @@ This project can be used as a foundation for:
 - DOM traversal exercises
 - educational parsing projects
 
-## What this project demonstrates to recruiters
-
-- Ability to design object-oriented data models
-- Understanding of tree structures and graph-like traversal
-- Experience with recursive algorithms
-- Comfort working with external data over HTTP
-- Problem solving through custom parsing logic
-- Clean separation between parsing, modeling, and querying responsibilities
-
-## Future improvements
-
-Potential next steps for this project:
-- improve support for more CSS selector patterns
-- add error handling for malformed HTML
-- support attribute selectors
-- add unit tests for parsing and selector matching
-- package the parser as a reusable library
-- improve console output formatting
-
 ## Repository
 
 GitHub: [shoshi-20/html-serializer](https://github.com/shoshi-20/html-serializer)
